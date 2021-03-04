@@ -1,0 +1,22 @@
+Exloratory data analysis
+- understanding the dataset
+
+Gender category:
+- has two unique values:
+	- male
+	- female
+
+Which channel did you....category
+- has 8 unique values
+	- Instagram
+	- friend
+	- email
+	- whatsapp
+	- blog
+	- linkedin
+	- facebook
+	- other
+
+data set dimensions:
+- 100 rows
+
